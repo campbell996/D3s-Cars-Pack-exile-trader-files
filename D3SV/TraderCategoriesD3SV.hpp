@@ -47,7 +47,6 @@
 			"d3s_alfieri_14",
 			"d3s_amazing_a45_16",
 			"d3s_amazing_a45_16_AMG",
-			"d3s_amazing_AC58_17",
 			"d3s_amazing_f10_12",
 			"d3s_amazing_f82_16",
 			"d3s_amgGT_15",
