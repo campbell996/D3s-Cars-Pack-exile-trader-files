@@ -1,6 +1,7 @@
 # D3s-Cars-Pack-exile-trader-files
 Exile Trader Files For  >>>@d3s Cars pack&lt;&lt;&lt;
 
+This File Is Better To Read In Notepad++.
 
 This is the Exile trader files for @d3s Cars pack... 
 DOWNLOAD>>>>> https://github.com/campbell996/D3s-Cars-Pack-exile-trader-files/tree/master <<<<< DOWNLOAD 
